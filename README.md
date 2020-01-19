@@ -1,3 +1,8 @@
+#Apache comes with a utility called the Apache Service Monitor. With it you can see and manage the state of all installed Apache services on any machine on your network. To be able to manage an Apache service with the monitor, you have to first install the service (either automatically via the installation or manually).
+
+You can install Apache as a Windows NT service as follows from the command prompt at the Apache bin subdirectory:
+
+httpd.exe -k install
 # JBoss Google Code In Student Handbook
 
 Thank you for participating in Google Code In with JBoss!
